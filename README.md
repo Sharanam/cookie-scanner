@@ -84,3 +84,6 @@ The report is a Markdown table with:
 - The scan uses a headful browser first, then performs headless lookups.
 - A simple "Accept all" consent click is attempted after each page load.
 - Cookie classification uses name patterns and optional search text.
+
+## Screenshot - Report in MarkDown
+<img width="1765" height="819" alt="image" src="https://github.com/user-attachments/assets/67ee73f5-25c7-4457-9e6b-2a31d7a2ef2f" />
